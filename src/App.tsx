@@ -349,7 +349,7 @@ function App() {
           <div className="bg-white/10 p-8 rounded-2xl backdrop-blur-sm mb-8">
             <div className="mb-6">
               <div className="text-2xl text-emerald-200 line-through mb-2">De R$ 1.297,00</div>
-              <div className="text-5xl md:text-6xl font-bold mb-4">R$ 897,00</div>
+              <div className="text-5xl md:text-6xl font-bold mb-4">12x de R$ 87,90 </div>
               <div className="text-xl text-emerald-200">⏰ Valor promocional por tempo limitado!</div>
             </div>
             <div className="text-lg mb-6">
