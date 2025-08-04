@@ -118,7 +118,7 @@ const WhatsAppButton: React.FC = () => {
 
   const handleWhatsAppClick = () => {
 
-    window.open('https://wa.me/5592981183539?text=Olá! Gostaria de saber mais sobre o curso Técnico em Veterinária.', '_blank');
+    window.open('https://checkout.academiaead.com/checkout?product=325788f7-6e69-11f0-a3b6-46da4690ad53 ', '_blank');
 
   };
 
